@@ -1,0 +1,251 @@
+@font-face {
+  font-family: shabnam;
+  src: url(fonts/shabnam);
+  src: url(fonts/Shabnam-Bold.woff) format('truetype');
+}
+
+body {
+  font-family: shabnam !important;
+}
+
+.nav-link:hover {
+  color: rgb(168, 161, 161) !important;
+}
+
+.dropdown-item {
+  font-size: 14px;
+}
+
+.margin-1 li {
+  margin-left: 10px;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(224, 218, 236) !important;
+  color: rgb(36, 143, 36);
+}
+
+.bg1 {
+  border-radius: 25px;
+}
+
+.bg2 {
+  margin-top: 100px;
+}
+
+.btn-3 {
+  border-radius: 15px;
+
+  float: left;
+  position: relative;
+  bottom: 50px;
+  left: 90px;
+  z-index: 1;
+}
+
+.text-c {
+  color: green;
+
+}
+
+.text-big {
+  text-align: justify;
+  line-height: 2rem;
+
+}
+
+.btn-1 {
+  border-radius: 15px;
+  ;
+}
+
+.bg3 {
+  height: 100px;
+  background-image: url(photo/blue.png);
+  border-radius: 20px;
+  margin-top: 80px;
+
+
+}
+
+/* .bg44{
+    border:1px solid rgb(68, 68, 68);
+  } */
+.text-3 {
+  color: white;
+
+  font-size: 18px;
+
+
+}
+
+.btn-2 {
+  background-color: rgb(45, 44, 78);
+  border: 0px;
+  font-size: 12px;
+  border-radius: 15px;
+
+}
+
+.bg5 {
+  margin-top: 100px;
+}
+
+.text-4 {
+  font-size: 22px;
+  margin-top: 15px;
+}
+
+.text6 {
+  line-height: 2rem;
+  font-size: 13px;
+  text-align: justify;
+}
+
+.pic1 {}
+
+.text7 {
+  font-size: 14px;
+  color: rgb(107, 106, 106);
+}
+
+.bg6 {
+
+  background-color: forestgreen;
+  border-radius: 30px;
+  margin-top: 150px;
+
+
+}
+
+.bg7 {
+  margin-top: -85px;
+}
+
+.text-8 {
+  color: rgb(221, 223, 217);
+}
+
+.text-9 {
+  color: rgb(221, 223, 217);
+  font-size: 24px;
+}
+
+.bg8 {
+  margin-top: 120px;
+}
+
+.text-10 {
+  font-size: 15px;
+  color: rgb(43, 42, 41);
+  display: inline;
+}
+
+.link1 :hover {
+  text-decoration: none;
+  background-color: rgb(45, 44, 78);
+}
+
+.bg9 {
+
+  border-radius: 20px;
+  background-image: url(photo/background6.jpg);
+}
+
+.text-11 {
+
+  color: rgb(211, 214, 210);
+  font-size: 14px;
+  text-align: justify;
+  padding-right: 35px;
+  padding-left: 35px;
+
+}
+
+.btn-5 {
+  border-radius: 15px;
+
+
+}
+
+.bg10 {
+  margin-top: 120px;
+
+}
+
+.text-12 {
+  font-size: 17px;
+}
+
+.btn-3 {
+  background-color: ;
+  border: 0px;
+  font-size: 12px;
+  border-radius: 15px;
+  margin-bottom: 25px;
+
+}
+
+.fa-chevron-down {
+  color: brown;
+}
+
+.p {
+  display: inline;
+}
+
+.bg11 {
+  margin-top: 120px;
+}
+
+.text-13 {
+  font-size: 19px;
+}
+
+.bg12 {
+  border-radius: 15px;
+  background-color: rgb(52, 129, 69);
+  padding: 5px 7px;
+}
+
+.text-14 {
+  font-size: 13px !important;
+  color:white;
+}
+
+.bg13 {
+  margin-top: 80px;
+  background-color: #E6E6FA;
+}
+
+.text-15 {
+  font-size: 13px;
+  color: rgb(126, 129, 125);
+  text-align: justify;
+  line-height: 1.5rem;
+}
+
+.link3:hover {
+  text-decoration: none;
+}
+
+#icon-place {
+  vertical-align: -5;
+}
+
+/* .bg44{
+    background-image: url("photo/ab.jpg");
+  } */
+.pho-to {
+  width: 95%;
+  height: 60%;
+  object-fit: cover;
+  
+  
+}
+
+.photo-1 {
+  width: 100%;
+  height: 100%;
+  border-radius:25px;
+}
